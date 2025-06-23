@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Name": "ramnath",
+    "Salary": 45000.00,
+    "PhoneNumber":"777777773",
+    "Email": "eddy55@gmail.com",
+    "Department": "HR",
+    "Location": "Hyderabad"
+  },
+  {
+    "Id": 2,
+    "Name": "AKHIL",
+    "Salary": 95000.00,
+    "PhoneNumber":"777777775",
+    "Email": "AK12@gmail.com",
+    "Department": "CEO",
+    "Location": "Banglore"
+  },
+  {
+    "Id": 3,
+    "Name": "Bob",
+    "Salary": 75000.00,
+    "PhoneNumber":"777777777",
+    "Email": "bob@gmail.com",
+    "Department": "TD",
+    "Location": "Pune"
+  },{
+    "Id": 4,
+    "Name": "jaggu",
+    "Salary": 65000.00,
+    "PhoneNumber":"777777771",
+    "Email": "jaggu99@gmail.com",
+    "Department": "TL",
+    "Location": "Noida"
+  }
+]
